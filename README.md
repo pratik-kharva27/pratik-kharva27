@@ -233,13 +233,13 @@ developer:
     src="https://github-readme-stats.vercel.app/api?username=pratik-kharva27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8860a&text_color=ffffff&icon_color=c8860a&ring_color=c8860a"/> -->
   &nbsp;
   <img height="175" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-kharva27&layout=compact&langs_count=8&bg_color=0d1117&title_color=c8860a&text_color=ffffff"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-kharva27&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c8860a&text_color=ffffff"/>
 </div>
 
 <div align="center">
   <!-- <br/> -->
   <img width="62%" alt="Streak Stats"
-    src="https://streak-stats.demolab.com/?user=pratik-kharva27&background=0d1117&ring=c8860a&fire=ff7b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c8860a&sideLabels=c8860a&dates=888888&stroke=0d1117"/>
+    src="https://streak-stats.demolab.com/?user=pratik-kharva27&hide_border=true&background=0d1117&ring=c8860a&fire=ff7b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c8860a&sideLabels=c8860a&dates=888888&stroke=0d1117"/>
 </div>
 
 <div align="center">
