@@ -214,14 +214,14 @@ developer:
 
 ## &nbsp;◈&nbsp; GitHub Metrics
 
-<!-- <div align="center">
+<div align="center">
   <img width="95%" alt="GitHub profile summary for pratik kharva" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik-kharva27&theme=github_dark"/>
-</div> -->
+</div>
 
-<!-- <div align="center">
+<div align="center">
   <img height="170" alt="GitHub stats for pratik kharva" src="https://github-readme-stats.shion.dev/api?username=pratik-kharva27&bg_color=0d1117&title_color=c8860a&text_color=c9d1d9&icon_color=c8860a&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="170" alt="Top languages for pratik kharva" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratik-kharva27&bg_color=0d1117&title_color=c8860a&text_color=c9d1d9&border_color=30363d&hide_border=false&layout=compact"/>
-</div> -->
+</div>
 
 <!-- <div align="center">
   <img height="170" alt="Most used languages by repo for pratik kharva" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik-kharva27&theme=github_dark"/>
@@ -229,21 +229,21 @@ developer:
 </div> -->
 
 <div align="center">
-  <img height="175" alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=pratik-kharva27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8860a&text_color=ffffff&icon_color=c8860a&ring_color=c8860a"/>
+  <!-- <img height="175" alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=pratik-kharva27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8860a&text_color=ffffff&icon_color=c8860a&ring_color=c8860a"/> -->
   &nbsp;
   <img height="175" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-kharva27&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c8860a&text_color=ffffff"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-kharva27&layout=compact&langs_count=8&bg_color=0d1117&title_color=c8860a&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <br/>
+  <!-- <br/> -->
   <img width="62%" alt="Streak Stats"
-    src="https://streak-stats.demolab.com/?user=pratik-kharva27&hide_border=true&background=0d1117&ring=c8860a&fire=ff7b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c8860a&sideLabels=c8860a&dates=888888&stroke=0d1117"/>
+    src="https://streak-stats.demolab.com/?user=pratik-kharva27&background=0d1117&ring=c8860a&fire=ff7b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c8860a&sideLabels=c8860a&dates=888888&stroke=0d1117"/>
 </div>
 
 <div align="center">
-  <br/>
+  <!-- <br/> -->
   <img width="95%" alt="Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-kharva27&theme=react-dark&bg_color=0d1117&color=c8860a&line=c8860a&point=ffd966&area=true&area_color=c8860a&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
