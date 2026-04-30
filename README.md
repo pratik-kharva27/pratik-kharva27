@@ -44,9 +44,7 @@
   <!-- <img alt="Followers" src="https://img.shields.io/github/followers/pratik-kharva27?style=for-the-badge&color=c8860a&labelColor=0d1117&logo=github&logoColor=c8860a&label=FOLLOWERS"/> -->
   
 </a>
-
 </div>
-
 <br/>
 
 <!-- ─────────────────────────  ABOUT  ───────────────────────── -->
@@ -227,6 +225,7 @@ developer:
   <img height="170" alt="Most used languages by repo for pratik kharva" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik-kharva27&theme=github_dark"/>
   <img height="170" alt="Most committed languages for pratik kharva" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratik-kharva27&theme=github_dark"/>
 </div> -->
+
 
 <div align="center">
   <!-- <img height="175" alt="GitHub Stats"
